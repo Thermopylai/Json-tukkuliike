@@ -10,7 +10,7 @@
 
 ## 🔗 Live Demo
 
-👉 https://thermopylai.github.io/Json-tukkuliike/json-tukkuliike.html
+👉 https://thermopylai.github.io/json-tukkuliike/json-tukkuliike.html
 
 ---
 
